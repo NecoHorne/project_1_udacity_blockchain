@@ -1,0 +1,10 @@
+{
+  "address" : "15w7GhdtZD11WEhy7TEoSXbnrsLwdCvp8U",
+  "signature" : "IJBtY7aEWc9YS0I/AYy865Vl20cPO/OFipCuKsqgYRFqKybV4lxYoiZLZVvF6EdMyprAHbmjxiqD3DBnVPoaCjc=",
+  "message" : "15w7GhdtZD11WEhy7TEoSXbnrsLwdCvp8U:1623846898:starRegistry",
+  "star" : {
+    "dec": "67° 52' 56.9",
+    "ra": "17h 29m 1.0s",
+    "story": "Testing 2"
+  }
+}
